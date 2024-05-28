@@ -1,4 +1,4 @@
-<p align="center" style="width:50px; height:50px">
+<p align="center" style="width:50%; height:50%">
   <img src="https://i.gifer.com/origin/42/426b74db697cf240f129ab82fa379241_w200.gif"/>
   <img src="https://media.tenor.com/L4TD4MWFy40AAAAj/kirby.gif"/>
   <img src="https://studio.code.org/v3/assets/sJlITuw1kMzvGSQy2QqoQj6IMjb4ekCMTVjZCbouR-U/kirby_calling_for_an_assistant_by_marxkirby-dbo5isa.gif"/>
