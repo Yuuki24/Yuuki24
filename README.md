@@ -1,6 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Play&size=16&pause=1000&color=CFFF00&random=false&width=435&lines=He+Burned+Down+Half+The+City+Just+To+Prove+He+Was+Right;And+Burned+The+Other+Half+Just+For+Fun" alt="Typing SVG" /></a>
 <p align="center">
-  <img src="https://github.com/Yuuki24/Yuuki24/blob/main/ezgif.com-cut.gif"/>
+  <img src="https://github.com/Yuuki24/Yuuki24/blob/main/ezgif.com-crop.gif"/>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
