@@ -2,6 +2,8 @@
 <p align="center">
   <img src="https://github.com/Yuuki24/Yuuki24/blob/main/ezgif.com-crop.gif"/>
 </p>
+</br>
+![tryhackme stats](https://raw.githubusercontent.com/yuuki24/yuuki24/master/assets/thm_propic.png)
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=bash,linux,kali,redhat,apple,raspberrypi,mint,windows,azure,regex,py,powershell,postgres,html,css,js,notion,wordpress,figma,xd" />
