@@ -5,6 +5,10 @@
 </br>
 
 <p align="center">
+<img src="https://tryhackme-badges.s3.amazonaws.com/yuuki24.png" alt="TryHackMe">
+</p>
+
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=bash,linux,kali,redhat,apple,raspberrypi,mint,windows,azure,regex,py,powershell,postgres,html,css,js,notion,wordpress,figma,xd" />
   </a>
