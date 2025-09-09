@@ -5,8 +5,7 @@
 </br>
 
 <p align="center">
-<img src="https://tryhackme-badges.s3.amazonaws.com/yuuki24.png" alt="Your Image Badge" />
-</p>
+<img src="https://tryhackme-badges.s3.amazonaws.com/yuuki24.png" alt="Your Image Badge" /></p>
 
 <p align="center">
   <a href="https://skillicons.dev">
